@@ -1,8 +1,16 @@
-# React + Vite
+# Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Website Administrator Dashboard  for administrators to manage and monitor different aspects of the website. It provides tools and features to control content, track analytics, manage user billing, and configure settings.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### library Used:
+
+---
+
+1. React.js using Vite
+2. Material Ui
+3. React Form Hook
+4. full calendar
+5. nivo-chart
+
+![preview](https://res.cloudinary.com/dsj56djsq/image/upload/v1717583757/Images%20of%20my%20Projects/React.js/Admin_dashboard_l3xqf8.png)
