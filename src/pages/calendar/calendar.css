@@ -1,0 +1,66 @@
+b {
+  /* used for event dates/times */
+  margin-right: 3px;
+}
+
+.demo-app {
+  display: flex;
+  min-height: 100%;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.demo-app-sidebar {
+  width: 300px;
+  line-height: 1.5;
+  border-right: 1px solid #d3e2e8;
+}
+
+.demo-app-sidebar-section {
+  padding: 2em;
+}
+
+.demo-app-main {
+  flex-grow: 1;
+  padding: 3em;
+}
+
+.fc {
+  /* the calendar root */
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+ 
+/* ========================= Custom Style ========================= */
+.demo-app-sidebar {
+  min-height: 30px;
+  height: 600px;
+}
+.demo-app-sidebar h2 {
+  margin: 20px 0;
+}
+
+.demo-app-sidebar b {
+  padding: 0 3px 0 20px;
+}
+.css-jkymtx-MuiPaper-root ~ .demo-app-main .fc-col-header-cell-cushion {
+  color: #fff !important;
+}
+
+.css-jkymtx-MuiPaper-root ~ .demo-app-main .fc-daygrid-day-number {
+  color: #fff !important;
+}
+
+.MuiPaper-root.MuiPaper-elevation ul i {
+  font-weight: 500;
+  font-size: 17px;
+}
+.MuiPaper-root.MuiPaper-elevation ul i::before {
+  content: "( ";
+  position: relative;
+}
+.MuiPaper-root.MuiPaper-elevation ul i::after {
+  content: " ) ";
+  position: relative;
+}
