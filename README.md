@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A Website Administrator Dashboard  for administrators to manage and monitor different aspects of the website. It provides tools and features to control content, track analytics, manage user billing, and configure settings.
+A Website Administrator Dashboard to manage and monitor different aspects of the website. It provides tools and features to control content, track analytics, manage user billing, and configure settings.
 
 
 ### library Used:
